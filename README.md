@@ -1,3 +1,10 @@
+# Requirements
+- Nodejs
+- Reacat
+- Android emulator
+- yarn (optional)
+- https://reactnative.dev/docs/environment-setup
+
 # Guess Number mobile game using React Native
 
 - Screen 1
