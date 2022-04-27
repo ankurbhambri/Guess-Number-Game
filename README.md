@@ -1,9 +1,13 @@
 # Requirements
-- Nodejs
-- Reacat
+- nodejs-lts
+- openjdk11
 - Android emulator
 - yarn (optional)
 - https://reactnative.dev/docs/environment-setup
+
+# How to run app
+- clone repo
+- (npx react-native run-android) or (yarn android)
 
 # Guess Number mobile game using React Native
 
