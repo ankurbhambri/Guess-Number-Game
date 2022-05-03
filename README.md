@@ -1,3 +1,5 @@
+Simple React Native Example
+
 # Requirements
 - nodejs-lts
 - openjdk11
